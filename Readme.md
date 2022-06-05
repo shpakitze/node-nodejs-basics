@@ -1,3 +1,3 @@
-# Node.js basics
-
-## !!! Please don't submit Pull Requests to this repository !!!
+для проверки запускать файлы из tests
+например
+node .\src\test\test-zlib-decompress.js 
